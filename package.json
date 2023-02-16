@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "the backend side for bus booking app",
   "main": "server.js",
+  "engines": {
+    "node": "15.7.0",
+    "npm": "7.4.3"
+  },
   "scripts": {
     "client-install": "npm install --prefix frontend",
     "server": "  nodemon backend/server.js",
