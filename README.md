@@ -1,6 +1,17 @@
 # bus_booking
-This is a job app to demonstrate backend/frontend functionality and using databases (here I use Mongo DB) to save data.. In the app users can create/edit/search/sort bus with its details ( prices, time and routes) after creating an account and after logging in.  Technologies used in this project are Node Js, Exprerss Js, React Js, and other current
-Structure of the project 
+This is a job app to demonstrate backend/frontend functionality and using databases (here I use Mongo DB) to save data.
+
+Technologies used in this app: 
+
+- MongoDB - document database
+
+- Express(.js) - Node.js web framework
+
+- React(.js) - a client-side JavaScript framework
+
+- Node(.js) - the premier JavaScript web serverStructure of the project 
+
+- Ant- design for front-end side
 
 As a user, you can register and login and book a ticket for your preferred travel 
 
